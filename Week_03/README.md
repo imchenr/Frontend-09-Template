@@ -8,7 +8,6 @@ ll: l = left
 3. Operator (+、-、*、/ 之一) —— 加减乘除运算符
 4. Whitespace (<sp>) —— 空格
 5. LineTerminator (<LF> <CR>) —— 换行
-6. 
 分为词法分析和语法分析
 
 # yield
